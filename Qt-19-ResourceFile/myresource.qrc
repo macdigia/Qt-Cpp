@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>image.png</file>
+    </qresource>
+    <qresource prefix="/Files">
+        <file>Tags.rtf</file>
+    </qresource>
+</RCC>
